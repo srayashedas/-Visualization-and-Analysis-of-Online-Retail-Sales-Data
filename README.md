@@ -18,7 +18,7 @@ Online retailers need actionable insights to:
 ## 📊 Dashboard Preview
 
 ### Main Dashboard
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](screenshots/dashboard.png)
 
 ### Key Visualizations
 - **Revenue Trends**: Monthly performance analysis
