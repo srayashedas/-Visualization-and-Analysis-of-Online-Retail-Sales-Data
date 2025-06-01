@@ -18,15 +18,14 @@ Online retailers need actionable insights to:
 ## 📊 Dashboard Preview
 
 ### Main Dashboard
-![Dashboard Overview](screenshots/dashboard.png)
-
+![Dashboard Overview](dashboard.png)
 ### Key Visualizations
 - **Revenue Trends**: Monthly performance analysis
 - **Geographic Performance**: Country-wise revenue breakdown
 - **Product Analysis**: Top-performing SKUs
 - **Customer Segmentation**: RFM analysis for targeted marketing
 
-*View the complete report: [Power BI Report PDF](screenshots/Online%20Retails%20Sales%20Dashboard.pdf)*
+*View the complete report: [Power BI Report PDF](Online%20Retails%20Sales%20Dashboard.pdf)
 ## 📁 Dataset Information
 
 - **Source**: UCI Machine Learning Repository
